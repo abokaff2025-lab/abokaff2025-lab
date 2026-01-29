@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi there, I'm Abokaff 👋
 
-<!--
-**abokaff2025-lab/abokaff2025-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abokaff2025&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 الأدوات والتقنيات التي أستخدمها
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=go,flutter,react,java,dart,cpp,py,js,linux,git,figma,vscode,postman,firebase" />
+  </a>
+</p>
+
+---
+
+### 📊 إحصائيات GitHub الخاصة بي
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=abokaff2025&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abokaff2025&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abokaff2025&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🛠️ عني (كـ كود برمجي)
+```javascript
+const developer = {
+  name: "Abokaff",
+  status: "Always Building",
+  motto: "الكود النظيف هو لغة الاحتراف",
+  tools: ["Dart", "Python", "JavaScript", "C++"]
+};
